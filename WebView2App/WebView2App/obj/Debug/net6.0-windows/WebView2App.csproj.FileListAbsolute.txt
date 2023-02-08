@@ -22,3 +22,8 @@ C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\Microsoft.Web.WebVi
 C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
 C:\Git\Poc1\WebView2App\WebView2App\obj\Debug\net6.0-windows\WebView2App.csproj.CopyComplete
 C:\Git\Poc1\WebView2App\WebView2App\obj\Debug\net6.0-windows\WebView2App.WebView2Form.resources
+C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\files\MyPptFile.ppt
+C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\files\MyJpgFile.jpg
+C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\files\MyMp4File.mp4
+C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\files\MyPdfFile.pdf
+C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\files\MyPptxFile.pptx
