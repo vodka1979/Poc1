@@ -4,7 +4,6 @@ C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\WebView2App.runtime
 C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\WebView2App.dll
 C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\WebView2App.pdb
 C:\Git\Poc1\WebView2App\WebView2App\obj\Debug\net6.0-windows\WebView2App.csproj.AssemblyReference.cache
-C:\Git\Poc1\WebView2App\WebView2App\obj\Debug\net6.0-windows\WebView2App.Form1.resources
 C:\Git\Poc1\WebView2App\WebView2App\obj\Debug\net6.0-windows\WebView2App.csproj.GenerateResource.cache
 C:\Git\Poc1\WebView2App\WebView2App\obj\Debug\net6.0-windows\WebView2App.GeneratedMSBuildEditorConfig.editorconfig
 C:\Git\Poc1\WebView2App\WebView2App\obj\Debug\net6.0-windows\WebView2App.AssemblyInfoInputs.cache
@@ -15,3 +14,11 @@ C:\Git\Poc1\WebView2App\WebView2App\obj\Debug\net6.0-windows\refint\WebView2App.
 C:\Git\Poc1\WebView2App\WebView2App\obj\Debug\net6.0-windows\WebView2App.pdb
 C:\Git\Poc1\WebView2App\WebView2App\obj\Debug\net6.0-windows\WebView2App.genruntimeconfig.cache
 C:\Git\Poc1\WebView2App\WebView2App\obj\Debug\net6.0-windows\ref\WebView2App.dll
+C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Git\Poc1\WebView2App\WebView2App\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Git\Poc1\WebView2App\WebView2App\obj\Debug\net6.0-windows\WebView2App.csproj.CopyComplete
+C:\Git\Poc1\WebView2App\WebView2App\obj\Debug\net6.0-windows\WebView2App.WebView2Form.resources

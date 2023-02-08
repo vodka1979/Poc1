@@ -1,0 +1,89 @@
+{
+   "checksum": "3485aa78b9e0befd77387da51b5527a8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13320295973160920",
+            "date_last_used": "0",
+            "guid": "2ef35013-cce2-4ff2-b726-04831b662f79",
+            "id": "9",
+            "name": "アマゾン",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13320295973160863",
+            "date_last_used": "0",
+            "guid": "2c55df55-6415-48ae-8a79-ada6fbf60ce0",
+            "id": "8",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=agoda&c=222&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13320295973160804",
+            "date_last_used": "0",
+            "guid": "9fefa291-6023-4c03-ad0a-6e66c104ce20",
+            "id": "7",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13320295973160728",
+            "date_last_used": "0",
+            "guid": "6a7d94e6-5942-4c7f-a87e-fe618ef29498",
+            "id": "6",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13320295973159620",
+            "date_last_used": "0",
+            "guid": "0cb9ca06-a421-4fff-9059-b1aeabe4c7bc",
+            "id": "5",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3"
+         } ],
+         "date_added": "13320295973125034",
+         "date_last_used": "0",
+         "date_modified": "13320295973160920",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "お気に入りバー",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13320295973125036",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "その他のお気に入り",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13320295973125037",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "モバイルのお気に入り",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
