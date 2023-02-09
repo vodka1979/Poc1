@@ -15,7 +15,7 @@ namespace WebView2App
         public WebView2Form()
         {
             InitializeComponent();
-            //‚ ‚ ‚ 
+            //‚ ‚ ‚ ‚ ‚ ‚ 
         }
 
 
@@ -100,7 +100,7 @@ namespace WebView2App
         /// <param name="e"></param>
         private void LocalPdfLoadButton_Click(object sender, EventArgs e)
         {
-            this.MyWebView2.Source = new Uri(Path.Combine(_localFilePath, "MyPdfFile1.pdf"));
+            this.MyWebView2.Source = new Uri(Path.Combine(_localFilePath, "MyPdfFile.pdf"));
         }
 
         /// <summary>
